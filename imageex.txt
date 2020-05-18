@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+	<meta charset="UTF-8">
+</head>
+<body>
+	<figure>
+		<img scr="desktop/imback.jpg" alt="imback"/>
+		<figcaption>Default Size</figcaption>
+	</figure>
+	<figure>
+		<img scr="desktop/imback.jpg"  width="500px"  alt="imback"/>
+		<figcaption>Width set</figcaption>
+	</figure>
+	<figure>
+		<img scr="desktop/imback.jpg"  width="500px" height="100px" alt="imback"/>
+		<figcaption>Width and Height set</figcaption>
+	</figure>
+	<figure>
+		<img scr="desktop/imback.jpg"  width="50%"  alt="imback"/>
+		<figcaption>Persentages</figcaption>
+	</figure>
+</body>
+</html>
